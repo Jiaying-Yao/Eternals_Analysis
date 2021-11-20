@@ -1,8 +1,8 @@
 Terminologies:
-1.  Single/Double Annotation:
+1.  Single/Double Annotation:  
     single: The cell in the column for the sentiment analysis should contain one of positive/neutral/negative.
-2.  open coding:
-    Observed data and phenomenon that are attached during qualitative data analysis.
+2.  open coding:  
+    Observed data and phenomenon that are attached during qualitative data analysis.  
     Fix an topic by observing certain amount of data
 
 Collection Step:
@@ -12,14 +12,14 @@ Collection Step:
 4. Parameters for API:
     https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/api-reference/get-search-tweets
 5. tweepy.Client document
-    https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
-    example:
+    https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent  
+    example:    
     https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9
-6. cleaning: 
-    removed hppts in text
-    removed duplicated cleaned text
-    removed duplicated authors
-    1500 tweets -> 1114 tweets
+6. cleaning:  
+    removed https in text  
+    removed duplicated cleaned text  
+    removed duplicated authors  
+    1500 tweets -> 1114 tweets  
 
 Authentication:
 Twitter currently does not expire tokens
