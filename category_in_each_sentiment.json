@@ -1,0 +1,32 @@
+{
+  "positive_category": {
+    "appearance": 29,
+    "character": 85,
+    "money": 12,
+    "harry_styles": 70,
+    "cast": 47,
+    "plot": 46,
+    "review": 54,
+    "others": 66
+  },
+  "neutral_category": {
+    "appearance": 8,
+    "character": 74,
+    "money": 15,
+    "harry_styles": 60,
+    "cast": 30,
+    "plot": 45,
+    "review": 60,
+    "others": 109
+  },
+  "negative_category": {
+    "appearance": 1,
+    "character": 12,
+    "money": 1,
+    "harry_styles": 5,
+    "cast": 6,
+    "plot": 32,
+    "review": 10,
+    "others": 8
+  }
+}

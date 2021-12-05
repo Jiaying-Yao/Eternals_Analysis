@@ -1,0 +1,42 @@
+{
+  "appearance_sentiments": {
+    "positive": 29,
+    "neutral": 8,
+    "negative": 1
+  },
+  "character_sentiments": {
+    "positive": 85,
+    "neutral": 74,
+    "negative": 12
+  },
+  "money_sentiments": {
+    "positive": 12,
+    "neutral": 15,
+    "negative": 1
+  },
+  "harry_styles_sentiments": {
+    "positive": 70,
+    "neutral": 60,
+    "negative": 5
+  },
+  "cast_sentiments": {
+    "positive": 47,
+    "neutral": 30,
+    "negative": 6
+  },
+  "plot_sentiments": {
+    "positive": 46,
+    "neutral": 45,
+    "negative": 32
+  },
+  "review_sentiments": {
+    "positive": 54,
+    "neutral": 60,
+    "negative": 10
+  },
+  "others_sentiments": {
+    "positive": 66,
+    "neutral": 109,
+    "negative": 8
+  }
+}
